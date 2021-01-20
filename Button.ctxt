@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Button\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=key\ img
+comment1.target=Button(java.lang.String,\ int)
+comment1.text=\ 0\ \=\ green\r\n\ 1\ \=\ red\r\n\ 2\ \=\ yellow\r\n\ 3\ \=\ blue\r\n\ 4\ \=\ orange\r\n
+comment2.params=n
+comment2.target=int\ getButtonX(int)
+comment3.params=key
+comment3.target=int\ getKeyNum(java.lang.String)
+comment4.params=
+comment4.target=boolean\ isTouchingNote()
+comment5.params=n
+comment5.target=void\ delay(int)
+comment6.params=
+comment6.target=void\ act()
+numComments=7
